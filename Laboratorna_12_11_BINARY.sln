@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_12_11_BINARY", "Laboratorna_12_11_BINARY\Laboratorna_12_11_BINARY.csproj", "{8D860922-C7D0-462B-B053-F90E1B302EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_12_11_BINARY.Tests", "Laboratorna_12_11_BINARY.Tests\Laboratorna_12_11_BINARY.Tests.csproj", "{12DDE7FF-C524-4DEA-90D8-3B20E6660088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D860922-C7D0-462B-B053-F90E1B302EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D860922-C7D0-462B-B053-F90E1B302EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D860922-C7D0-462B-B053-F90E1B302EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D860922-C7D0-462B-B053-F90E1B302EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DDE7FF-C524-4DEA-90D8-3B20E6660088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DDE7FF-C524-4DEA-90D8-3B20E6660088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DDE7FF-C524-4DEA-90D8-3B20E6660088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DDE7FF-C524-4DEA-90D8-3B20E6660088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
